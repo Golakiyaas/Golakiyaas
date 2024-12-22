@@ -8,7 +8,9 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/3ce8e6aa-db9a-4dc2-a7d3-f5a6e15f6931" style="border: 10px solid white; border-radius: 15px;" />
+<img align="center" alt="Coding" width="600" src="https://github.com/user-attachments/assets/3ce8e6aa-db9a-4dc2-a7d3-f5a6e15f6931" style="border: 10px solid white; border-radius: 15px;" />
+
+---
 
 - 💼 **Working Student at Otto von Guericke University Magdeburg (OVGU):**  
   Creating projects in data analytics and visualization, like dashboards and reports:  
@@ -49,7 +51,6 @@ I understand that no one knows everything in any field, and this mindset drives 
 - **German**
 
 ---
-
 
 <h3 align="left">🚀 Tools and Technologies:</h3>
 <p align="left">
