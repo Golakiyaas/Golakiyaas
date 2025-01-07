@@ -88,9 +88,6 @@ I understand that no one knows everything in any field, and this mindset drives 
   <img src="https://github-readme-stats.vercel.app/api?username=golakiyaas&show_icons=true&locale=en" alt="golakiyaas" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golakiyaas" alt="golakiyaas" />
-</p>
 
 ---
 
