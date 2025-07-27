@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Golakiyaas/Golakiyaas/blob/main/Github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Achyut Golakiya</h1>
-<h3 align="center">🎓 Data Analyst | Power BI Developer | Data Storyteller</h3>
+<h3 align="center">🎓 Data Analyst | Power BI Developer | Data Storyteller | AI & ML Enthusiast</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=golakiyaas&label=Profile%20views&color=0e75b6&style=flat" alt="golakiyaas" /> 
